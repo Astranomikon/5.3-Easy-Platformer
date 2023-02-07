@@ -10,10 +10,10 @@ public class CreateBirdsInPatrol : MonoBehaviour
 
     void Start()
     {
-        for (int i = 0; i < gameObject.transform.childCount; i++)
+        for (int i = 0; i < transform.childCount; i++)
         {
-            var newBird = Instantiate(template, gameObject.transform.GetChild(i).GetChild(0));
-            newBird.Init(gameObject.transform.GetChild(i), _birdSpeed);
+            var newBird = Instantiate(template, transform.GetChild(i).GetChild(0));
+            newBird.Init(transform.GetChild(i), _birdSpeed);
         }
     }
 }
