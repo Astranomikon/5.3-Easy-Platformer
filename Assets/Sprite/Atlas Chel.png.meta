@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -115,7 +115,343 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Atlas Chel_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 869
+        width: 187
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc668900c2cde2f44940a6ceaec69ca3
+      internalID: 1409988158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Chel_1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 847
+        width: 187
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d653a1e546fe9934785a03a0acd6cada
+      internalID: 818455292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Chel_2
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 869
+        width: 187
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd80d7e7e097a7438ffdbd2fbe57831
+      internalID: -1360035095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Chel_3
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 847
+        width: 187
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc8870445239214999c6cc2fa8920e1
+      internalID: 423005754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Chel_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 583
+        width: 187
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421a0c9b6016ab647b74a182625214f9
+      internalID: 233200863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Chel_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 572
+        width: 187
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3720d35520e13df46adcdc96d8b21663
+      internalID: -1477364986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Chel_6
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 583
+        width: 187
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f75627efdd1e045a90207deac81dea
+      internalID: 2096576633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Chel_7
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 572
+        width: 187
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2329a1f4e2dc2f34dbf348c2ccce6df2
+      internalID: 236339353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Chel_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 308
+        width: 154
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cea2aa9c1cf944f8c984621b1291ea
+      internalID: 1276341365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Chel_9
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 297
+        width: 154
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20afb1750e1bc0b41a484dd60a2dc4fa
+      internalID: 147384023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Chel_10
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 308
+        width: 154
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ecfc5243ba19442a57605a5f5f2f3a
+      internalID: -1581204534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Chel_11
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 297
+        width: 154
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0110956ef6dbb09439959df8bcf8f65d
+      internalID: -73870613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Chel_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 11
+        width: 154
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40760230419e6eb4db25754b93fa69bf
+      internalID: 1740420288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Chel_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 11
+        width: 154
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5abe60edd130e74380e7a979a5dae30
+      internalID: 841864975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Chel_14
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 11
+        width: 154
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff03be3f0a6679c42bfd1e58d4b1a831
+      internalID: 962001420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Chel_15
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 11
+        width: 154
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e32439095050a41bd1afefed59e7b6
+      internalID: 538334663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -126,7 +462,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Atlas Chel_10: -1581204534
+      Atlas Chel_1: 818455292
+      Atlas Chel_9: 147384023
+      Atlas Chel_14: 962001420
+      Atlas Chel_0: 1409988158
+      Atlas Chel_11: -73870613
+      Atlas Chel_4: 233200863
+      Atlas Chel_8: 1276341365
+      Atlas Chel_7: 236339353
+      Atlas Chel_12: 1740420288
+      Atlas Chel_15: 538334663
+      Atlas Chel_5: -1477364986
+      Atlas Chel_2: -1360035095
+      Atlas Chel_6: 2096576633
+      Atlas Chel_3: 423005754
+      Atlas Chel_13: 841864975
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -6,7 +6,7 @@ public class CoinSpawners : MonoBehaviour
 {
     [SerializeField] private Coin _spawnCoin;
 
-    private WaitForSeconds _sleep = new WaitForSeconds(10);
+    private WaitForSeconds _sleep = new WaitForSeconds(5);
 
     private Transform[] _spawnPoints;
     private int _currentSpawnPoint = 0;
